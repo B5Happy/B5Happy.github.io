@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "http://b5happy.github.io/portfolio",
+  "homepage": "http://B5Happy.github.io/portfolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
